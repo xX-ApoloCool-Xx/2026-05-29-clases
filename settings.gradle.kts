@@ -10,5 +10,5 @@ plugins {
     id("org.gradle.toolchains.foojay-resolver-convention") version "1.0.0"
 }
 
-rootProject.name = "2026-05-29-clase"
+rootProject.name = "polinomios"
 include("app")
